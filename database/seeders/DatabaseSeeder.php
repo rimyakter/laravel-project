@@ -22,7 +22,7 @@ class DatabaseSeeder extends Seeder
             [
                 'title' => 'Laravel Senior Developer',
                 'tags' => 'laravel, javascript',
-                'company' => 'Acme Corp',
+                'company' => 'Acme Corporation',
                 'location' => 'Boston, MA',
                 'email' => 'email1@email.com',
                 'website' => 'https://www.acme.com',
